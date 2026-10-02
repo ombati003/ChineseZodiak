@@ -1,0 +1,1 @@
+<img src="images/ChineseZodiacBanner.png" alt="The Chinese Zodiac - A Code Demonstration for PHP" width="392" height="72" />

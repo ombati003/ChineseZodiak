@@ -1,0 +1,13 @@
+body { margin: 0; background-color: #fff8e7; color: #333333; font-family: Arial, Helvetica, sans-serif; }
+#container { width: 960px; margin: 0 auto; background-color: #ffffff; }
+#header { background-color: #b22222; padding: 10px; }
+#header img { display: block; }
+#buttonnav { background-color: #f4d03f; padding: 5px; text-align: center; }
+#buttonnav img { border: 0; margin: 2px; }
+#textnav { float: left; width: 180px; padding: 10px; background-color: #fdebd0; }
+#textnav ul { list-style-type: none; margin: 0; padding: 0; }
+#textnav li { padding: 4px 0; }
+#content { margin-left: 200px; padding: 10px; min-height: 300px; }
+#footer { clear: both; background-color: #b22222; color: #ffffff; text-align: center; padding: 8px; }
+table { border-collapse: collapse; }
+th, td { border: 1px solid #b22222; padding: 4px; text-align: center; }
