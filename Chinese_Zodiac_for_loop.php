@@ -9,15 +9,16 @@
 <?php
 $Signs = array("Rat", "Ox", "Tiger", "Rabbit", "Dragon", "Snake",
                "Horse", "Goat", "Monkey", "Rooster", "Dog", "Pig");
-$Pictures = array("images/Rat.png", "images/Ox.png", "images/Tiger.png",
-                  "images/Rabbit.png", "images/Dragon.png", "images/Snake.png",
-                  "images/Horse.png", "images/Goat.png", "images/Monkey.png",
-                  "images/Rooster.png", "images/Dog.png", "images/Pig.png");
+$Pictures = array("images/Rat.jpg", "images/Ox.jpg", "images/Tiger.jpg",
+                  "images/Rabbit.jpg", "images/Dragon.jpg", "images/Snake.jpg",
+                  "images/Horse.jpg", "images/Goat.jpg", "images/Monkey.jpg",
+                  "images/Rooster.jpg", "images/Dog.jpg", "images/Pig.jpg");
 $StartYear = 1912;
-$CurrentYear = date("Y");
-
+$CurrentYear = date("Y"); 
 echo "<table>";
 echo "<tr>";
+
+
 for ($i = 0; $i < 12; ++$i) {
     echo "<th>$Signs[$i]<br /><img src=\"$Pictures[$i]\" alt=\"$Signs[$i]\" /></th>";
 }
