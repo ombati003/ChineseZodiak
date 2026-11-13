@@ -1,4 +1,4 @@
 <p style="text-align: center;">
-    <a href="inc_php_info.php">PHP</a> | 
-    <a href="inc_chinese_zodiac.php">Chinese Zodiac</a>
+    <a href="index.php?page=home_page&section=php">PHP</a> | 
+    <a href="index.php?page=home_page&section=zodiac">Chinese Zodiac</a>
 </p>

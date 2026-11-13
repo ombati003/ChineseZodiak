@@ -1,5 +1,5 @@
 <?php
-include("inc_home_links_bar.php");
+// include("inc_home_links_bar.php");
 ?>
 
 <h2>Chinese Zodiac Information</h2>
