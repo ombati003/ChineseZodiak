@@ -10,25 +10,6 @@ Automated Table Generation: Utilizes PHP for loops to generate table headers and
 
 Strict XHTML Compliance: Formatted with self-closing image tags and standard-compliant HTML tags.
 
-Project Structure
-
-ChineseZodiac/
-├── images/
-│   ├── Rat.jpg
-│   ├── Ox.jpg
-│   ├── Tiger.jpg
-│   ├── Rabbit.jpg
-│   ├── Dragon.jpg
-│   ├── Snake.jpg
-│   ├── Horse.jpg
-│   ├── Goat.jpg
-│   ├── Monkey.jpg
-│   ├── Rooster.jpg
-│   ├── Dog.jpg
-│   └── Pig.jpg
-├── index.php
-└── README.md
-
 
 Setup & Usage
 
